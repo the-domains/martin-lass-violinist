@@ -1,0 +1,28 @@
+name: Martin Lass - Violinist
+favicon: null
+layout_spectrum: 0.701993512455374
+typography_spectrum: 0.7423561778850853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8600207895506173
+  lightness: 0.29034731979481876
+  saturation: 0.14322012569755316
+  rhythmicContrast: 0.31835404178127646
+purpose: []
