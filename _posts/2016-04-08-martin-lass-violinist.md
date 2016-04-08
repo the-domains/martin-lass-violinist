@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them,\_Martin Lass had\nalready broken the mold of the usual violin soloist, crossing over from a classical\nbackground into his ancestral gypsy music, rocked-up Bach, and breathtaking original\ncompositions."
-datePublished: '2016-04-08T21:51:01.923Z'
-dateModified: '2016-04-08T21:51:00.188Z'
+datePublished: '2016-04-08T21:52:54.003Z'
+dateModified: '2016-04-08T21:52:17.163Z'
 title: Martin Lass - Violinist
 author: []
 sourcePath: _posts/2016-04-08-martin-lass-violinist.md
@@ -23,12 +23,12 @@ _type: Blurb
 
 ---
 [][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
 
 Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them, _**Martin Lass**_ had
 already broken the mold of the usual violin soloist, crossing over from a classical
 background into his ancestral [gypsy music][1], [rocked-up Bach][2], and [breathtaking original
 compositions][3].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
 
 He won the
 Australian "Mo Award" for Instrumental Excellence seven times in a row, was
