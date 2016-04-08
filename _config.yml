@@ -1,7 +1,7 @@
 name: Martin Lass - Violinist
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.83392
+typography_spectrum: 0.04937
 title: Martin Lass - Violinist
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#cfbbcd'
     - '#4a3837'
     - '#004c8b'
-  brandStrength: 0.8600207895506173
-  lightness: 0.75
-  saturation: 0.1875
-  rhythmicContrast: 0
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
