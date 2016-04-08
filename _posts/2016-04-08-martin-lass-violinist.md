@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them,\_Martin Lass had\nalready broken the mold of the usual violin soloist, crossing over from a classical\nbackground into his ancestral gypsy music, rocked-up Bach, and breathtaking original\ncompositions."
-datePublished: '2016-04-08T21:47:31.411Z'
-dateModified: '2016-04-08T21:47:30.631Z'
+datePublished: '2016-04-08T21:49:16.463Z'
+dateModified: '2016-04-08T21:48:31.762Z'
 title: Martin Lass - Violinist
 author: []
 sourcePath: _posts/2016-04-08-martin-lass-violinist.md
@@ -22,41 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-<\></\>
-
-audio
-
-controls autoplay
-
-<\></\>
-
-source
-
-src
-
-=
-
-"
-
-https://s3.amazonaws.com/Syntaxxx/bigger-picture.mp3
-
-"
-
-type
-
-=
-
-"audio/mpeg"
-
-<
-
-p
-
-If you can read this, your browser does not support the audio element.<\><\></\></\>
-
-p
-
-audio
+https://youtu.be/318kAZ1n9BE
 
 [][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
