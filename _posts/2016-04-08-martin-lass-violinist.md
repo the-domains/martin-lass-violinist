@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: "Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them,\_Martin Lass had\nalready broken the mold of the usual violin soloist, crossing over from a classical\nbackground into his ancestral gypsy music, rocked-up Bach, and breathtaking original\ncompositions."
-datePublished: '2016-04-08T22:12:06.476Z'
-dateModified: '2016-04-08T22:11:29.904Z'
+description: "Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them,\_Martin Lass had\nalready broken the mold of the usual violin soloist, crossing over from a classical\nbackground into his ancestral gypsy music, gypsy music, rocked-up Bach, and breathtaking original\ncompositions."
+datePublished: '2016-04-08T22:14:00.183Z'
+dateModified: '2016-04-08T22:13:45.255Z'
 title: Martin Lass - Violinist
 author: []
 sourcePath: _posts/2016-04-08-martin-lass-violinist.md
@@ -25,12 +25,12 @@ _type: Blurb
 [][0]
 
 ,
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
 
 Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them, _**Martin Lass**_ had
 already broken the mold of the usual violin soloist, crossing over from a classical
-background into his ancestral [][1][gypsy music][2], gypsy music, [rocked-up Bach][3], and [breathtaking original
+background into his ancestral [][1][gypsy music][2], [rocked-up Bach][3], and [breathtaking original
 compositions][4].
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
 
 He won the
 Australian "Mo Award" for Instrumental Excellence seven times in a row, was
