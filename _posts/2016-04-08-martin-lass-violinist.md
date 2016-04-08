@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them,\_Martin Lass had\nalready broken the mold of the usual violin soloist, crossing over from a classical\nbackground into his ancestral gypsy music, rocked-up Bach, and breathtaking original\ncompositions."
-datePublished: '2016-04-08T14:47:37.873Z'
-dateModified: '2016-04-08T14:44:53.873Z'
+datePublished: '2016-04-08T21:47:31.411Z'
+dateModified: '2016-04-08T21:47:30.631Z'
 title: Martin Lass - Violinist
 author: []
 sourcePath: _posts/2016-04-08-martin-lass-violinist.md
@@ -22,12 +22,49 @@ publisher:
 _type: Blurb
 
 ---
+<\></\>
+
+audio
+
+controls autoplay
+
+<\></\>
+
+source
+
+src
+
+=
+
+"
+
+https://s3.amazonaws.com/Syntaxxx/bigger-picture.mp3
+
+"
+
+type
+
+=
+
+"audio/mpeg"
+
+<
+
+p
+
+If you can read this, your browser does not support the audio element.<\><\></\></\>
+
+p
+
+audio
+
+[][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
 
 Forget 2Cellos, The Piano Guys, David Garrett, Andre Rieu, and Lindsay Stirling... well before them, _**Martin Lass**_ had
 already broken the mold of the usual violin soloist, crossing over from a classical
-background into his ancestral [gypsy music][0], [rocked-up Bach][1], and [breathtaking original
-compositions][2].
+background into his ancestral [gypsy music][1], [rocked-up Bach][2], and [breathtaking original
+compositions][3].
 
 He won the
 Australian "Mo Award" for Instrumental Excellence seven times in a row, was
@@ -36,9 +73,10 @@ Iglesias and Luciano Pavarotti, and has performed in three British Royal Command
 
 As a recording artist, Martin has a Gold Album,
 an Australian "Grammy" nomination, and has charted No. 13 on the American NAV
-charts with his latest CD, "[Sonnet][3]."
+charts with his latest CD, "[Sonnet][4]."
 
-[0]: https://itunes.apple.com/us/album/the-gypsy-fiddler/id18950712
-[1]: https://itunes.apple.com/us/album/bach-to-the-future/id270518221
-[2]: https://itunes.apple.com/us/album/sonnet/id4656278
-[3]: https://itunes.apple.com/us/artist/martin-lass/id4381075
+[0]: https://s3.amazonaws.com/Syntaxxx/bigger-picture.mp3
+[1]: https://itunes.apple.com/us/album/the-gypsy-fiddler/id18950712
+[2]: https://itunes.apple.com/us/album/bach-to-the-future/id270518221
+[3]: https://itunes.apple.com/us/album/sonnet/id4656278
+[4]: https://itunes.apple.com/us/artist/martin-lass/id4381075
