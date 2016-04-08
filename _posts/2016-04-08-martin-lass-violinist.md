@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome to my new-look website!'
-datePublished: '2016-04-08T13:50:09.622Z'
-dateModified: '2016-04-08T13:44:34.503Z'
+datePublished: '2016-04-08T14:08:08.533Z'
+dateModified: '2016-04-08T14:07:30.194Z'
 title: Martin Lass - Violinist
 author: []
 sourcePath: _posts/2016-04-08-martin-lass-violinist.md
@@ -22,5 +21,6 @@ publisher:
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56410f-7848-41a0-b328-a95779fc98fa.jpg)
+
 Welcome to my new-look website!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43d98f78-2ded-4c3f-a8e3-22941b1ace35.jpg)
