@@ -16,8 +16,8 @@ keywords:
   - relaxation
   - erik
 description: Instrumental song by Martin Lass
-datePublished: '2016-04-09T00:03:10.448Z'
-dateModified: '2016-04-09T00:02:56.321Z'
+datePublished: '2016-04-09T00:04:34.688Z'
+dateModified: '2016-04-09T00:03:56.447Z'
 author:
   - name: Martin Lass
     url: 'https://www.youtube.com/user/martinlass'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: A Winter Tale - Martin Lass
+sourcePath: _posts/2016-04-09-a-winter-tale-martin-lass.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-09-a-winter-tale-martin-lass.md
-published: true
 url: a-winter-tale-martin-lass/index.html
 _type: VideoObject
 _context: 'http://schema.org'
