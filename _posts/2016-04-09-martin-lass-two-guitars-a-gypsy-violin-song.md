@@ -16,8 +16,8 @@ keywords:
   - czardas
   - lakatos
 description: 'Classic Russian folksong, "Two Guitars," played in the traditional gypsy style!'
-datePublished: '2016-04-09T19:51:36.014Z'
-dateModified: '2016-04-09T19:50:44.310Z'
+datePublished: '2016-04-09T20:09:56.685Z'
+dateModified: '2016-04-09T20:09:15.326Z'
 author:
   - name: Martin Lass
     url: 'https://www.youtube.com/user/martinlass'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: Martin Lass - Two Guitars - A gypsy violin song
+sourcePath: _posts/2016-04-09-martin-lass-two-guitars-a-gypsy-violin-song.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-09-martin-lass-two-guitars-a-gypsy-violin-song.md
-published: true
 url: martin-lass-two-guitars-a-gypsy-violin-song/index.html
 _type: VideoObject
 _context: 'http://schema.org'
