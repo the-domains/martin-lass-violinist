@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - relaxation
   - erik
 description: Instrumental song by Martin Lass
-datePublished: '2016-04-09T00:04:34.688Z'
-dateModified: '2016-04-09T00:03:56.447Z'
+datePublished: '2016-04-09T00:07:08.055Z'
+dateModified: '2016-04-09T00:07:04.125Z'
 author:
   - name: Martin Lass
     url: 'https://www.youtube.com/user/martinlass'
