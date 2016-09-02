@@ -1,8 +1,9 @@
 ---
-inFeed: false
+datePublished: '2016-08-31T01:22:39.194Z'
+sourcePath: _posts/2016-04-09-two-guitars-a-gypsy-violin-song.md
+inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: en
 keywords:
   - duration
   - gypsy
@@ -14,14 +15,14 @@ keywords:
   - roby
   - czardas
   - lakatos
-description: 'Classic Russian folksong, "Two Guitars," played in the traditional gypsy style!'
-datePublished: '2016-05-20T20:03:06.285Z'
-dateModified: '2016-05-20T19:55:46.100Z'
+related: []
 author:
   - name: Martin Lass
     url: 'https://www.youtube.com/user/martinlass'
     avatar: {}
-related: []
+via: {}
+dateModified: '2016-08-31T01:22:37.936Z'
+title: Martin Lass - Two Guitars - A gypsy violin song
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kgfD0cViX-A&feature=applinks'
     type: ios
@@ -59,18 +60,20 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Martin Lass - Two Guitars - A gypsy violin song
-sourcePath: _posts/2016-04-09-two-guitars-a-gypsy-violin-song.md
-authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: >-
+  Classic Russian folksong, "Two Guitars," played in the traditional gypsy
+  style!
+inLanguage: en
+inNav: true
 starred: false
 url: two-guitars-a-gypsy-violin-song/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkgfD0cViX-A%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgfD0cViX-A&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkgfD0cViX-A%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
