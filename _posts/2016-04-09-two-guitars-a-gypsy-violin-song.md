@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T01:25:04.742Z'
+datePublished: '2016-08-31T02:31:59.186Z'
 sourcePath: _posts/2016-04-09-two-guitars-a-gypsy-violin-song.md
 inFeed: false
 authors: []
@@ -21,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/martinlass'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T01:25:04.096Z'
+dateModified: '2016-08-31T02:31:58.572Z'
 title: Martin Lass - Two Guitars - A gypsy violin song
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kgfD0cViX-A&feature=applinks'
